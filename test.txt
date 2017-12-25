@@ -2,4 +2,9 @@ line 1
 line 2
 line 3
 line 5
+<<<<<<< HEAD
 line 7
+=======
+line 6
+
+>>>>>>> b3a97f79d78c597f45b02a0b5e16ff0580c4fe41
